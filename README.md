@@ -1,6 +1,6 @@
 ## Πειραματική μελέτη της μεθόδου Τεχνητής Νοημοσύνης Minimax με α–β pruning στο παιχνίδι Reversi
 
-![Reversi](https://en.wikipedia.org/wiki/Reversi)
+[Reversi](https://en.wikipedia.org/wiki/Reversi)
 
 Python 3  (αναπτύχθηκε με Python 3.10.1)
 ### Εκτέλεση
