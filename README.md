@@ -1,5 +1,4 @@
-## Πειραματική μελέτη της μεθόδου Τεχνητής Νοημοσύνης 
-## minimax με α-β pruning, πάνω στο παιχνίδι Reversi
+## Πειραματική μελέτη της μεθόδου Τεχνητής Νοημοσύνης minimax με α-β pruning, πάνω στο παιχνίδι Reversi
 
 ![Reversi] (https://en.wikipedia.org/wiki/Reversi)
 
