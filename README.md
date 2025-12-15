@@ -110,8 +110,7 @@ Python 3  (αναπτύχθηκε με Python 3.10.1)
 - **Minimax vs InstaMaxRandom**
 
 
-### Minmax vs Random 
-### Simple Heuristic
+### Minmax vs Random - Simple Heuristic
 
 | Depth | Turn | Wins | Loses | Ties | Games | Time (m/o) | % |
 |------:|-----:|-----:|------:|-----:|------:|-----------:|---:|
@@ -126,8 +125,7 @@ Python 3  (αναπτύχθηκε με Python 3.10.1)
 | 5 | 1 | 5   | 0   | 0  | 5   | 19.9 | 1.000 |
 | 5 | 2 | 5   | 0   | 0  | 5   | 24.5 | 1.000 |
 
-### Minmax vs Random 
-### Complex Heuristic
+### Minmax vs Random - Complex Heuristic
 
 | Depth | Turn | Wins | Loses | Ties | Games | Time (m/o) | % |
 |------:|-----:|-----:|------:|-----:|------:|-----------:|---:|
@@ -142,8 +140,7 @@ Python 3  (αναπτύχθηκε με Python 3.10.1)
 | 5 | 1 | 5   | 0   | 0  | 5   | 35.7 | 1.000 |
 | 5 | 2 | 5   | 0   | 0  | 5   | 37.7 | 1.000 |
 
-### Minmax vs InstaMaxRandom 
-### Simple Heuristic
+### Minmax vs InstaMaxRandom - Simple Heuristic
 
 | Depth | Turn | Wins | Loses | Ties | Games | Time (m/o) | % |
 |------:|-----:|-----:|------:|-----:|------:|-----------:|---:|
@@ -158,8 +155,7 @@ Python 3  (αναπτύχθηκε με Python 3.10.1)
 | 5 | 1 | 4   | 1   | 0  | 5   | 25.2 | 0.800 |
 | 5 | 2 | 5   | 0   | 0  | 5   | 34.8 | 1.000 |
 
-### Minmax vs InstaMaxRandom 
-### Complex Heuristic
+### Minmax vs InstaMaxRandom - Complex Heuristic
 
 | Depth | Turn | Wins | Loses | Ties | Games | Time (m/o) | % |
 |------:|-----:|-----:|------:|-----:|------:|-----------:|---:|
